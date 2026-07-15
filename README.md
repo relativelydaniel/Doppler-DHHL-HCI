@@ -1,5 +1,5 @@
 
-# PoC - Computational Demonstration and Educational Research of Deaf / Hard of Hearing Speech and Linguistics 
+# Doppler PoC - Computational Demonstration and Educational Research of Deaf / Hard of Hearing Speech and Linguistics 
 
 Extended Embedded Systems project based a previous translator project. Emphasis on Machine / Deep Learning and Natural Language Processing 
 
