@@ -1,4 +1,3 @@
-
 # Doppler PoC - Computational Demonstration and Educational Research of Deaf / Hard of Hearing Speech and Linguistics 
 
 Embedded Systems project based a previous translator project. Emphasis on Machine / Deep Learning and NLP
@@ -6,3 +5,5 @@ Embedded Systems project based a previous translator project. Emphasis on Machin
 Dataset: General Lexicon DHH Annotations + Linguistics Characteristics TSV
 
 Tech Stack: Python, SQLite, Epitran
+
+CITE / SOURCE: [insert original link here]
